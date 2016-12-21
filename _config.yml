@@ -1,5 +1,5 @@
 description: Un blog perso pour partager idées et expériences sur le comment "faire avec" pour "être libres ensemble". Community building - facilitation - communautés ouvertes contributives - dynamiques des groupes - inclusion et ouverture - biens communs
-url: http://qrohlf.com
+url: http://samuelbausson.github.io
 permalink: /posts/:title
 markdown: redcarpet
 redcarpet:
